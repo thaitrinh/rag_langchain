@@ -13,7 +13,7 @@ This project demonstrates a simple Retrieval-Augmented Generation (RAG) pipeline
 1. **Clone this repository and navigate to the project folder:**
 
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/thaitrinh/rag_langchain.git
    cd rag_langchain
    ```
 
